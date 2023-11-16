@@ -70,7 +70,7 @@ Se observa que la información esta discriminada por Año Trimestre, con lo cual
 
 
 
-## Incluyo Dataset adicional geografico para Penetracion de Internet
+## Incluyo Dataset adicional geográfico para observar la Penetración de Internet
 
 Es específico para ver la penetracion de internet en forma geografica por Provincia y localidad, para ello utilice información aportada por el gobierno, indicada en Fuente de Datos de este readme.
 
