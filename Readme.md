@@ -89,22 +89,22 @@ Se propone un **KPI orientado** a aumentar los accesos por cada 100 habitantes  
 
 En particular, el crecimiento ambicioso del 5% trimestral - marcado con un **KPI para la Fibra Óptica** ha tenido resultados positivos en pocas ocasiones. Este indicador señala áreas de oportunidad para mejorar la expansión de la conectividad en dicha tecnología.
 
-## Conclusiones
+## <span style="color: #ADD8E6;">Conclusiones</span></p>
 A partir del Analisis de Datos y el Dashboard asociados se puede concluir:
 
-**Conectividad en Crecimiento:**
+[Conectividad en Crecimiento:]
 
 A pesar de la variabilidad en el cumplimiento trimestral, la conectividad muestra una tendencia general creciente.
 
-**Diferencias Regionales:**
+**<span style="color: #ADD8E6;">Diferencias Regionales:</span></p>**
 
 Se identifican disparidades significativas entre provincias, destacándose Capital Federal, Buenos Aires y Córdoba como líderes en conectividad. Sin embargo, hay muchas provincias con una baja cantidad de accesos, señalando áreas clave para mejorar.
 
-**Desafíos en Fibra Óptica:**
+**<span style="color: #ADD8E6;">Desafíos en Fibra Óptica:</span></p>**
 
 Aunque hay un crecimiento en el uso de Fibra Óptica en los últimos años, se evidencia la necesidad de un enfoque más específico para cumplir con el ambicioso objetivo del 5% trimestral.
 
-**Oportunidades de Crecimiento:**
+**<span style="color: #ADD8E6;">Oportunidades de Crecimiento:</span></p>**
 
 Se sugiere que la empresa de tecnología centre sus esfuerzos en conectar  localidades con una ausencia notable de Fibra Óptica. Este enfoque estratégico podría aprovechar al máximo el potencial de crecimiento en áreas aún no atendidas.
 Este análisis proporciona una base sólida para tomar decisiones informadas y desarrollar estrategias que impulsen la expansión y mejora de la conectividad, alineadas con los objetivos específicos de la empresa.</p>
