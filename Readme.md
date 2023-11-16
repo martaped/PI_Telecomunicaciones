@@ -1,5 +1,5 @@
-# Análisis de Datos para importante Empresa de Telecomunicacones
-##          con énfasis en la distribución de accesos en fibra Optica y ADSL
+# Análisis de Datos para importante Empresa de Telecomunicaciones
+       ## Con énfasis en la distribución de accesos en Fibra Optica y ADSL
 
 
 1. [Presentación Personal](#presentacion-info)
@@ -14,22 +14,24 @@
 
 6. [KPIs y Conclusiones](#Conclusiones)
 
+
 ![Image text](data/Telecomunicaciones.webp)
+
 
 ## Presentación Personal
 ***
 Soy **Marta Inés Pedriel**, licenciada en Análisis de Sistemas, Master en Administración de Servicios de Salud. Con experiencia en programación y análisis. En la actualidad me desarrolo como profesora de Matemática de Media y de Progamación y Estructuras de datos en Media.
-Estoy culminando también cursando Ciencia de Datos en SoyHenry a los fines de actualizarme en el manejo de las nuevas tecnologías y requerimientos del mercado.
+Estoy culminando también la carrera de Ciencia de Datos en SoyHenry a los fines de actualizarme en el manejo de las nuevas tecnologías y requerimientos del mercado.
 
 
 ## Introducción
 *** 
 
-He sido contratada por una **Empresa de Telecomunicaciones**, la cual quiere conocer el comportamiento de los accesos a Internet a nivel nacional. He decidido analizar el comportamiento de los accesos a Internet en todo el país.
-La principal actividad de la empresa es brindar acceso a internet en fibra óptica o ADSL,  siendo los pilares fundamentales de nuestra empresa.
+He sido contratada por una **Empresa de Telecomunicaciones**, la cual quiere conocer el comportamiento de los accesos a Internet a nivel nacional, dentro de la Republica Argentina. He decidido analizar el comportamiento de los accesos a Internet en todo el país.
+La principal actividad de la empresa es brindar acceso a internet en Fibra óptica o ADSL,  siendo los pilares fundamentales de nuestra empresa.
 Debi explorar y entender el panorama general de los servicios de comunicación,pero también debí considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en oportunidades de crecimiento y mejoras de servicio.
 
-Como parte de mi contribución a este equipo, he iniciado un proyecto integral para comprender el comportamiento de los accesos a Internet a nivel nacional, cuyo resultado cúlmine es un Dashboard interactivo en Power Bi
+Como parte de mi contribución a este equipo, he iniciado un proyecto integral para comprender el comportamiento de los accesos a Internet a nivel nacional, cuyo resultado cúlmine es un ** Dashboard interactivo en Power Bi. **
 
 ## Objetivo del Proyecto:
 
@@ -48,7 +50,7 @@ Con ello he complementado con datos geográficos para un análisis más completo
 
 ## Análisis Exploratorio de Datos
 
-Lo primero que realice es una visualización total de la información aportada por la pagina de Enacom respecto a la conectvidad a in ternet. 
+Lo primero que realice es una visualización total de la información aportada por la pagina de Enacom respecto a la conectvidad a internet. 
 Mediante un notebook de Visual Estudio en:
 
 ### python EDA.ipynb 
@@ -56,7 +58,7 @@ Mediante un notebook de Visual Estudio en:
 En este EDA puedes observar un ETL mas EDA , recorrido por todas las tablas, transformaciones de datos y Graficos. Con los comentarios pertinentes asociados a lectura de datos, transformaciones y gráficos.
 
 Pude descargar los archivos cvs en dataframes a los fines de observar, limpiar y analizar los mismos. Para luego cruzar datos y quedarme con los mas convenientes.
-Primero decidi evaluar el que mayor cantidad de información aporta, o sea con localidades y los diversos tipos de conectividades.
+Primero decidi evaluar el que mayor cantidad de información aporta, o sea con localidades, provincias y los diversos tipos de conectividades.
 
 Luego decidi numerar los csv que son 16 a los fines de no confundir tablas que contienen en muchos casos datos similares. 
 Hice la lectura de los archivos csv, su análisis de datos, mediante recuento de datos y graficos, ademas de la eliminación de nulos y columnas innecesarias.
@@ -67,7 +69,7 @@ Se observa que la información esta discriminada por Año Trimestre, con lo cual
 
 ## Incluyo Dataset adicional geografico para Penetracion de Internet
 
-Es específico para ver la penetracion de internet en forma geografica por Provincia y localidad, para ello utilice información aportada por el gobierno, indicada en la introsuccion de este readme.
+Es específico para ver la penetracion de internet en forma geografica por Provincia y localidad, para ello utilice información aportada por el gobierno, indicada en Fuente de Datos de este readme.
 
 Se realizo el merge de la data de las localidades con su latitud y longitud. Para ello he tenido que transformar y normalizar nombres de provincia y localidades.
 ### ETL_penetracionI.ipynb
@@ -90,7 +92,7 @@ A partir del Analisis de Datos y el Dashboard asociados se puede concluir:
 
 **Conectividad en Crecimiento:**
 
-A pesar de la variabilidad en el cumplimiento trimestral, la conectividad muestra una tendencia general al aumento.
+A pesar de la variabilidad en el cumplimiento trimestral, la conectividad muestra una tendencia general creciente.
 
 **Diferencias Regionales:**
 
