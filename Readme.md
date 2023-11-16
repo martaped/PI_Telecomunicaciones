@@ -20,6 +20,8 @@
 
 ## Presentación Personal
 ***
+<p align="justify">
+  
 Soy **Marta Inés Pedriel**, licenciada en Análisis de Sistemas, Master en Administración de Servicios de Salud. Con experiencia en programación y análisis. En la actualidad me desarrolo como profesora de Matemática de Media y de Progamación y Estructuras de datos en Media.
 Estoy culminando también la carrera de Ciencia de Datos en SoyHenry a los fines de actualizarme en el manejo de las nuevas tecnologías y requerimientos del mercado.
 
@@ -41,7 +43,7 @@ Explorar y entender el panorama general de los servicios de comunicación en bus
 
 ## Fuentes de Datos:
 
-Cuento con la API de Enacom - Ente Nacional de Comunicaciones de Argentina -para tomar información al respecto https://datosabiertos.enacom.gob.ar/home - A pesar de las dificultades, he obtenido datos cruciales de acceso a Internet. Estos datos, formato CSV, nos brindaron información detallada sobre la utilización y distribución de servicios.
+<div class=text-justify> Cuento con la API de Enacom - Ente Nacional de Comunicaciones de Argentina -para tomar información al respecto https://datosabiertos.enacom.gob.ar/home - A pesar de las dificultades, he obtenido datos cruciales de acceso a Internet. Estos datos, formato CSV, nos brindaron información detallada sobre la utilización y distribución de servicios.
 
 Se descargaron los datos en csv, por fallas en la api. Dichos archivos fueron numerados del 01 al 16 para no confundir los mismos.
 
@@ -83,7 +85,7 @@ En este Notebook se cruzan los datos de accesos por tecnologia de Internet fijo 
 
 ## Análisis y Conclusión: Accesos y Fibra Óptica
 
-Se propone un **KPI orientado** a aumentar los accesos por cada 100 habitantes en un 2%* trimestre a trimestre. Sin embargo, se observa una variabilidad en el cumplimiento del objetivo, con la mayoría de los trimestres sin alcanzar la meta, aunque en algunos casos se ha superado ampliamente, llegando incluso al 8%.
+Se propone un **KPI orientado** a aumentar los accesos por cada 100 habitantes  en un 2%* trimestre a trimestre. Sin embargo, se observa una variabilidad en el cumplimiento del objetivo, con la mayoría de los trimestres sin alcanzar la meta, aunque en algunos casos se ha superado ampliamente, llegando incluso al 8%.
 
 En particular, el crecimiento ambicioso del 5% trimestral - marcado con un **KPI para la Fibra Óptica** ha tenido resultados positivos en pocas ocasiones. Este indicador señala áreas de oportunidad para mejorar la expansión de la conectividad en dicha tecnología.
 
@@ -104,8 +106,8 @@ Aunque hay un crecimiento en el uso de Fibra Óptica en los últimos años, se e
 
 **Oportunidades de Crecimiento:**
 
-Se sugiere que la empresa de tecnología centre sus esfuerzos en conectar localidades con una ausencia notable de Fibra Óptica. Este enfoque estratégico podría aprovechar al máximo el potencial de crecimiento en áreas aún no atendidas.
-Este análisis proporciona una base sólida para tomar decisiones informadas y desarrollar estrategias que impulsen la expansión y mejora de la conectividad, alineadas con los objetivos específicos de la empresa.
+Se sugiere que la empresa de tecnología centre sus esfuerzos en conectar  localidades con una ausencia notable de Fibra Óptica. Este enfoque estratégico podría aprovechar al máximo el potencial de crecimiento en áreas aún no atendidas.
+Este análisis proporciona una base sólida para tomar decisiones informadas y desarrollar estrategias que impulsen la expansión y mejora de la conectividad, alineadas con los objetivos específicos de la empresa.</p>
 
 
 
