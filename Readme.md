@@ -1,5 +1,5 @@
-# Análisis de Datos para importante Empresa de Telecomunicaciones
-       ## Con énfasis en la distribución de accesos en Fibra Optica y ADSL
+# [Análisis de Datos para importante Empresa de Telecomunicaciones](#presentacion-info) 
+## [Con énfasis en la distribución de accesos de Fibra Optica y ADSL](#presentacion-info) 
 
 
 1. [Presentación Personal](#presentacion-info)
@@ -13,6 +13,7 @@
 5. [Transformacón para Ingresos por Tecnología](#IngresosYaccesos.ipynb)
 
 6. [KPIs y Conclusiones](#Conclusiones)
+
 
 
 ![Image text](data/Telecomunicaciones.webp)
