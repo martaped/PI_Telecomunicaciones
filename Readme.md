@@ -14,6 +14,10 @@
 
 6. [KPIs y Conclusiones](#Conclusiones)
 
+7. [Link al Dashboard en Power BI](#Conclusiones)
+
+    https://app.powerbi.com/view?r=eyJrIjoiNjY0ZjRmMDItNTNiYi00OTExLThkMWEtNDZjMzY3MDEzZTBkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
 
 
 ![Image text](data/Telecomunicaciones.webp)
