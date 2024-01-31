@@ -1,5 +1,7 @@
 # [Análisis de Datos para importante Empresa de Telecomunicaciones](#presentacion-info) 
 ## [Con énfasis en la distribución de accesos de Fibra Optica y ADSL](#presentacion-info) 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="marta-pedriel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/marta-pedriel?trk=profile-badge">Marta Pedriel</a></div>
+              
 
 
 1. [Presentación Personal](#presentacion-info)
